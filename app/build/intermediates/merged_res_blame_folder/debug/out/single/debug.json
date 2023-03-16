@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_edt_background.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\edt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_medical_file_1.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\medical_file_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.inam.app-merged_res-39:/layout_fragment_medical_i_d.xml.flat",
+        "source": "com.inam.app-main-41:/layout/fragment_medical_i_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-pngs-34:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.inam.app-merged_res-39:/layout_home.xml.flat",
+        "source": "com.inam.app-main-41:/layout/home.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_heart_icon.png.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\heart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\layout_fragment_health_records.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\layout\\fragment_health_records.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\layout_fragment_medical_i_d.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\layout\\fragment_medical_i_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_card_1.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\card_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.inam.app-merged_res-39:/layout_fragment_health_records.xml.flat",
+        "source": "com.inam.app-main-41:/layout/fragment_health_records.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\layout_home.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\layout_fragment_measure.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\layout\\fragment_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_height.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\height.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\drawable_log_btn.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\drawable\\log_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\zaryabkhan864\\.gradle\\daemon\\7.5\\com.inam.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

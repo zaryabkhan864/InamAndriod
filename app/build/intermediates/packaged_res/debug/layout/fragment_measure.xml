@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C822211E"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Measure">
+
+    <EditText
+    android:id="@+id/editName"
+    android:layout_width="239dp"
+    android:layout_height="41dp"
+    android:height="20dp"
+    android:background="@drawable/edt_background"
+    android:ems="10"
+    android:inputType="textPersonName"
+    tools:layout_editor_absoluteX="100dp"
+    tools:layout_editor_absoluteY="309dp"
+    android:padding="10dp"
+    android:drawablePadding="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:text="Enter the User Name" />
+    <EditText
+        android:id="@+id/editAge"
+        android:layout_width="239dp"
+        android:layout_height="41dp"
+        android:height="20dp"
+        android:background="@drawable/edt_background"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="309dp"
+        android:padding="10dp"
+        android:drawablePadding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Enter Your Age" />
+    <EditText
+        android:id="@+id/editWeight"
+        android:layout_width="239dp"
+        android:layout_height="41dp"
+        android:height="20dp"
+        android:background="@drawable/edt_background"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="309dp"
+        android:padding="10dp"
+        android:drawablePadding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Enter Your Weight in Kg" />
+    <EditText
+        android:id="@+id/editHeight"
+        android:layout_width="239dp"
+        android:layout_height="41dp"
+        android:height="20dp"
+        android:background="@drawable/edt_background"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="309dp"
+        android:padding="10dp"
+        android:drawablePadding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Enter Your Height in Feet" />
+    <EditText
+        android:id="@+id/editEmergencyNumber"
+        android:layout_width="239dp"
+        android:layout_height="41dp"
+        android:height="20dp"
+        android:background="@drawable/edt_background"
+        android:ems="10"
+        android:inputType="phone"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="309dp"
+        android:padding="10dp"
+        android:drawablePadding="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Enter Your Age" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#F44336"
+            android:minWidth="20dp"
+            android:minHeight="20dp" />
+
+        <Button
+            android:id="@+id/buttonSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edt_background"
+            android:text="Login"
+            tools:layout_editor_absoluteX="158dp"
+            tools:layout_editor_absoluteY="463dp" />
+
+    </LinearLayout>
+
+    <!--    <TextView-->
+<!--        android:id="@+id/tvResult"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_marginBottom="143dp"-->
+<!--        android:textSize="30sp" />-->
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

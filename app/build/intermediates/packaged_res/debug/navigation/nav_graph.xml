@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/measure2">
+    <fragment
+        android:id="@+id/measure2"
+        android:name="com.inam.app.Measure"
+        android:label="fragment_measure"
+        tools:layout="@layout/fragment_measure" />
+    <fragment
+        android:id="@+id/healthRecords2"
+        android:name="com.inam.app.HealthRecords"
+        android:label="fragment_health_records"
+        tools:layout="@layout/fragment_health_records" />
+    <fragment
+        android:id="@+id/medicalID2"
+        android:name="com.inam.app.MedicalID"
+        android:label="fragment_medical_i_d"
+        tools:layout="@layout/fragment_medical_i_d" />
+</navigation>
